@@ -10,17 +10,26 @@ text-align: center;}
 h3{color:#BF88B8;
 text-align: center;}
 
-ul{color:#BF88B8;}
+ul{color:#BF88B8;
+    font-size:20px;
+}
 
-ul{color:#BF88B8;}
+dl{color:#BF88B8;
+    font-size:20px;
+}
+    dd{color:#BF88B8;
+    font-size:20px;
+}
 
-ol{color:#BF88B8;}
+ol{color:#BF88B8;
+    font-size:20px;
+}
 
 hr{color:#BF88B8;}
 
 a{color:#7C587E;}
 
-img{border: 5px solid #7C587E;}
-table {background-color: #FAFAFA;
-text-align: center;
-}
+img{border: 5px solid #7C587E;
+border-color:#7C587E;}
+
+a{color:#7C587E;}
