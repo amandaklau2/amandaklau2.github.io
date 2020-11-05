@@ -5,7 +5,7 @@ body{
 .welcome{
 	width:530px;
 	height:290px;
-	background-image: url('spongebob-excited.gif');
+	background-image: url('https://media2.giphy.com/media/xT1XGR8gPp8ryujhRu/giphy.gif');
 	color:white;
 	margin:auto;
 	float:middle;
@@ -29,7 +29,7 @@ body{
 .mood{
 	width:592px;
 	height:400px;
-	background-image: url('mood.gif');
+	background-image: url('https://i2.wp.com/media3.giphy.com/media/ISOckXUybVfQ4/giphy.gif?resize=500%2C338&ssl=1');
 	color:white;
 	margin:auto;
 	float:middle;
